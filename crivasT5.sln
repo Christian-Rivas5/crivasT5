@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crivasT5", "crivasT5.csproj", "{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA59F3F-B3EA-43D0-B999-8236F0BEA542}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5317BA-69B6-4FCE-A5E8-7881E4D3CF6E}
+	EndGlobalSection
+EndGlobal
